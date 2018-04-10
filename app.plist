@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.zzyoutu.com/test1/yesapp.ipa</string>
+					<string>http://https://github.com/Cheng-Fei/Test/raw/master/evabot.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bokesoft.mobile</string>
+				<string>com.evabot.eva</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
